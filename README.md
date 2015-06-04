@@ -3,7 +3,7 @@
 A place to gather links and resources to datasets related to affordable and assisted housing in the state of Oregon.
 
 Oregon-specific Data Links
-- NOAH Preserve Oregon Database - PreserveOregonHousing.org 
+- NOAH Preserve Oregon Database - http://www.PreserveOregonHousing.org 
 - OHCS Funded Housing Projects - http://www.oregon.gov/ohcs/Pages/multifamily-housing-funded-applicants.aspx
 - HUD's Zillow Hackathon Data Portal - http://zillowhack.hud.opendata.arcgis.com/
 
