@@ -8,7 +8,8 @@ Oregon-specific Data Links
           -Funded Housing Projects - http://www.oregon.gov/ohcs/Pages/multifamily-housing-funded-applicants.aspx
           -Housing Inventory Data - http://www.oregon.gov/ohcs/Pages/research-multifamily-housing-inventory-data.aspx
           -Oregon Affordable Housing Inventory - https://apps.state.or.us/oahi_prod/
-- HUD's Zillow Hackathon Data Portal - http://zillowhack.hud.opendata.arcgis.com/
+- HUD's Open Data Storefront - http://egis.hud.opendata.arcgis.com/
+          -HUD's Zillow Hackathon Data Portal - http://zillowhack.hud.opendata.arcgis.com/
 
 Other Related Nat'l Projects
 - Florida Housing Data Clearinghouse (Shimberg Center at UoF) - http://flhousingdata.shimberg.ufl.edu/AHI_introduction.html
