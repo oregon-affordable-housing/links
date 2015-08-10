@@ -24,3 +24,14 @@ Other Related Nat'l Projects
 Data Projects of Interest
 
 - CLF's Regional Equity Atlas - https://clfuture.org/equity-atlas
+
+Related Data & Resources
+
+- Multifamily Housing Inventory (Oregon Metro) - http://rlisdiscovery.oregonmetro.gov/?action=viewDetail&layerID=2364
+- Portland Building Footprints - https://www.portlandonline.com/cgis/metadata/Viewer/display.cfm?Meta_layer_id=52413&Db_type=sde&City_Only=False
+- [City SDK](http://uscensusbureau.github.io/citysdk/) (US Census Bureau)
+- [Citizenville: How to Take Town Square Digital and Reinvent Government](http://www.amazon.com/Citizenville-Square-Digital-Reinvent-Government/dp/0143124471) (book)
+- [Hack Housing: Empowering Better Decisions](https://hack-housing.hackpad.com/) (hackpack for Seattle Hackathon, February 06-08 2015)
+  - [Event Results](https://hack-housing.hackpad.com/Event-Results-V4kFX69hOep)
+- [Finding the perfect house using open data](http://dealloc.me/2014/05/24/opendata-house-hunting/)
+- [Portland Oregon: The Age of a City](http://labratrevenge.com/pdx/)
